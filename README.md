@@ -6,7 +6,7 @@ This was a project in my master's degree at University of Washington. The object
 # Setup
 A Screen, The eye tracker (paired to the screen), a Camera (facing the screen), and a servo-controlled mechanism which mimicked human eyes and on which a laser and artificial robotic eyes could be mounted
 
-![](images/setup.PNG)
+![](images/setup.png)
 
 
 # Procedure
